@@ -1,0 +1,16 @@
+C:\Users\GRT1\source\projetos pessoais\designpatterns\bin\Debug\net5.0\designpatterns.exe
+C:\Users\GRT1\source\projetos pessoais\designpatterns\bin\Debug\net5.0\designpatterns.deps.json
+C:\Users\GRT1\source\projetos pessoais\designpatterns\bin\Debug\net5.0\designpatterns.runtimeconfig.json
+C:\Users\GRT1\source\projetos pessoais\designpatterns\bin\Debug\net5.0\designpatterns.runtimeconfig.dev.json
+C:\Users\GRT1\source\projetos pessoais\designpatterns\bin\Debug\net5.0\designpatterns.dll
+C:\Users\GRT1\source\projetos pessoais\designpatterns\bin\Debug\net5.0\ref\designpatterns.dll
+C:\Users\GRT1\source\projetos pessoais\designpatterns\bin\Debug\net5.0\designpatterns.pdb
+C:\Users\GRT1\source\projetos pessoais\designpatterns\obj\Debug\net5.0\designpatterns.csproj.AssemblyReference.cache
+C:\Users\GRT1\source\projetos pessoais\designpatterns\obj\Debug\net5.0\designpatterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRT1\source\projetos pessoais\designpatterns\obj\Debug\net5.0\designpatterns.AssemblyInfoInputs.cache
+C:\Users\GRT1\source\projetos pessoais\designpatterns\obj\Debug\net5.0\designpatterns.AssemblyInfo.cs
+C:\Users\GRT1\source\projetos pessoais\designpatterns\obj\Debug\net5.0\designpatterns.csproj.CoreCompileInputs.cache
+C:\Users\GRT1\source\projetos pessoais\designpatterns\obj\Debug\net5.0\designpatterns.dll
+C:\Users\GRT1\source\projetos pessoais\designpatterns\obj\Debug\net5.0\ref\designpatterns.dll
+C:\Users\GRT1\source\projetos pessoais\designpatterns\obj\Debug\net5.0\designpatterns.pdb
+C:\Users\GRT1\source\projetos pessoais\designpatterns\obj\Debug\net5.0\designpatterns.genruntimeconfig.cache
