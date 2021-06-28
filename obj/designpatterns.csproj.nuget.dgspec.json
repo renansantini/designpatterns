@@ -1,34 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\GRT1\\source\\projetos pessoais\\designpatterns\\designpatterns.csproj": {}
+    "/Users/grt/Documents/repos/designpatterns/designpatterns.csproj": {}
   },
   "projects": {
-    "C:\\Users\\GRT1\\source\\projetos pessoais\\designpatterns\\designpatterns.csproj": {
+    "/Users/grt/Documents/repos/designpatterns/designpatterns.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\GRT1\\source\\projetos pessoais\\designpatterns\\designpatterns.csproj",
+        "projectUniqueName": "/Users/grt/Documents/repos/designpatterns/designpatterns.csproj",
         "projectName": "designpatterns",
-        "projectPath": "C:\\Users\\GRT1\\source\\projetos pessoais\\designpatterns\\designpatterns.csproj",
-        "packagesPath": "C:\\Users\\GRT1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\GRT1\\source\\projetos pessoais\\designpatterns\\obj\\",
+        "projectPath": "/Users/grt/Documents/repos/designpatterns/designpatterns.csproj",
+        "packagesPath": "/Users/grt/.nuget/packages/",
+        "outputPath": "/Users/grt/Documents/repos/designpatterns/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\GRT1\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "/Users/grt/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -61,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.301/RuntimeIdentifierGraph.json"
         }
       }
     }

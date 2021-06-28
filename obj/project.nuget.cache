@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AMf4J6hXNwq/Wl0CkqjnZdbmxW5dk5vz23STVF+eRLSOqof7xSzmmGtJxHXD6+Hv8TqX2al8C+7TXpbMhv0Atg==",
+  "dgSpecHash": "QaYXjMjDjbvTR1/TyMsppdhguneKACeY241Mq+IkcKaSMKw3u5BKgQODK8siCNBZmprsw7xaZj4Bo+f0BjOrsA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\GRT1\\source\\projetos pessoais\\designpatterns\\designpatterns.csproj",
+  "projectFilePath": "/Users/grt/Documents/repos/designpatterns/designpatterns.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
