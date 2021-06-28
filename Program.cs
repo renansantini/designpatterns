@@ -1,12 +1,15 @@
 ﻿using System;
+using DesingPartterns.AbstractFactory;
+using DesingPartterns.FactoryMethod;
 
-namespace DesingPartterns.AbstractFactory
+namespace DesingPartterns
 {
     class Program
     {
         static void Main(string[] args)
         {
-            ExecucaoAbstractFactory.Executar();
+            //ExecucaoAbstractFactory.Executar();
+            new Client().Main();
         }
     }
 }
